@@ -1,8 +1,4 @@
-## Hi Everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
-<br />
-
-## Good to see you here! 🤩
+## Hi Everyone, Good to see you here! 🤩
 
 I'm a Technical Expert and Evangelist in DLTs and Blockchain working with [FIWARE](https://fiware.org/).
 
