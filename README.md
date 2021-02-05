@@ -1,10 +1,6 @@
-## Hi Everyone, Good to see you here! 🤩
+## Hi!
 
-I'm a Technical Expert and Evangelist in DLTs and Blockchain working with [FIWARE](https://fiware.org/).
-
-## More about me...
-
-
+I'm a Technical Expert and Evangelist in DLTs and Blockchain working with [FIWARE](https://fiware.org/). 
 
 ## Show some ❤️ by starring some of the repositories!
 
