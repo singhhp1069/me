@@ -6,7 +6,7 @@
 </p>
 <hr>
 
-- M.Sc. in Distributed Networks from TU-Berlin
+- Master’s degree in Computer Science specializing in Distributed Networks
 - Researcher at Fraunhofer FOKUS
 - Technical Expert and Evangelist at FIWARE
 - Blockchain Researcher at Ignite (formally Tendermint), Cosmos Network
