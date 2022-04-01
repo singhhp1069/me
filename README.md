@@ -9,7 +9,7 @@
 - M.Sc. in Distributed Networks from TU-Berlin
 - Researcher at Fraunhofer FOKUS
 - Technical Expert and Evangelist at FIWARE
-- DevRel Enginner at Tendermint, Cosmos Network
+- Blockchain Researcher at Ignite (formally Tendermint), Cosmos Network
 
 <hr>
 <h3 align="center">Blockchain/DLT | Full-Stack | Mobile App </h3>
