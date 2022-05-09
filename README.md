@@ -7,9 +7,9 @@
 <hr>
 
 - Master’s degree in Computer Science specializing in Distributed Networks
-- Researcher at Fraunhofer FOKUS
-- Technical Expert and Evangelist at FIWARE
 - Blockchain Researcher at Ignite (formally Tendermint), Cosmos Network
+- Technical Expert and Evangelist (Blockchain) at FIWARE
+- Student Research Assistant at Fraunhofer FOKUS
 
 <hr>
 <h3 align="center">Blockchain/DLT | Full-Stack | Mobile App </h3>
